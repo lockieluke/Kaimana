@@ -1,0 +1,1 @@
+export const appModulePath: string = require?.main?.path || "";
